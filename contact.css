@@ -1,0 +1,14 @@
+
+#hrt{
+    display :block;
+    margin: 20px auto;
+    font-size: 100px;
+}
+
+#details{
+    display: inline;
+}
+
+body{
+    background-color:cadetblue;
+}
