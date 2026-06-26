@@ -30,7 +30,7 @@ body {
     line-height: 24px;
     font-size: 20px;
     padding : 6px 12px;
-    box-shadow: 0 0 13px lightgoldenrodyellow;
+    box-shadow: 0 0 13px #ff00ff;
     color:blueviolet;
     margin: 10px;
     border-radius: 15px;
